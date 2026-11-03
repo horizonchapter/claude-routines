@@ -24,6 +24,17 @@
 
 Les routines se répondent entre elles : tes retours sur la veille orientent la veille suivante, et le suivi du soir prépare le sujet du lendemain.
 
+## ✦ Aperçu
+
+La veille du matin et le suivi du soir, rangés dans Notion :
+
+<p align="center">
+  <img src="assets/apercu-1.png" alt="Aperçu 1" width="49%">
+  <img src="assets/apercu-2.png" alt="Aperçu 2" width="49%">
+</p>
+
+<p align="center"><sub><i>Exemple fictif, à titre d'illustration.</i></sub></p>
+
 ## ✦ Principes
 
 - **Claude prépare, tu valides.** Aucune routine ne publie, n'achète ou ne crée de compte. L'envoi famille ne part qu'aux adresses écrites dans tes Réglages, et seulement pour ce que tu as coché.
