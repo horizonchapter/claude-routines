@@ -20,7 +20,7 @@ Lignes de texte que les routines lisent :
 | **Semaines** (`<SEMAINES>`) | Titre, Début, Fin, relations Vidéos et Actualités |
 | **Journal de bord** (`<JOURNAL_DE_BORD>`) | Fait, Date, Outil, Projet, Décisions, Prochaine étape, Bloqué par |
 | **Journal d'amélioration** (`<JOURNAL_AMELIORATION>`) | Observation, Date, Projet, Proposition (skill / mod / habitude / outil), Détail, Statut, Récurrent |
-| **Suivi du soir** (`<SUIVI_DU_SOIR>`) | Jour, Date, En une phrase, Note de la journée, Proposition pour demain |
+| **Suivi du soir** (`<SUIVI_DU_SOIR>`) | Jour, Date, En une phrase, Note de la journée, Proposition pour demain, À importer (case) |
 
 ## Page Procédure mail famille (`<PAGE_PROCEDURE_MAIL>`)
 Le gabarit du mail : objet, petit mot du jour, récap, une carte par élément, version texte, liens directs (pas de redirection), un message par destinataire.
