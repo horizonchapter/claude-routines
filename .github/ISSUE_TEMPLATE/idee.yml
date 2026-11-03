@@ -1,0 +1,11 @@
+name: Idée
+description: Une nouvelle routine, une règle, une amélioration
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idee
+    attributes:
+      label: Ton idée
+      description: À quoi ça servirait ?
+    validations:
+      required: true
