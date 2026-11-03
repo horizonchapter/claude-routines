@@ -15,7 +15,7 @@ Lignes de texte que les routines lisent :
 
 | Base | Propriétés principales |
 |---|---|
-| **Vidéos** (`<VIDEOS>`) | Titre, Publié le, Chaîne, Lien, Thème, Abonnement (case), Pourquoi utile, Action à essayer, Résumé basé sur, Statut (À regarder / Vu / Utile / Pas intéressant), Important (case), Famille (proposé / oui / envoyé), Semaine (relation) |
+| **Vidéos** (`<VIDEOS>`) | Titre, Publié le, Chaîne, Lien, Thème, Abonnement (case), Pourquoi utile, Action à essayer, Résumé basé sur, Statut (À regarder / Vu / Utile / Pas intéressant), Important (case), Famille (idée Claude / proposé / envoyé), Semaine (relation) |
 | **Actualités** (`<ACTUALITES>`) | mêmes propriétés + Source et Type, sans Chaîne ni Abonnement |
 | **Semaines** (`<SEMAINES>`) | Titre, Début, Fin, relations Vidéos et Actualités |
 | **Journal de bord** (`<JOURNAL_DE_BORD>`) | Fait, Date, Outil, Projet, Décisions, Prochaine étape, Bloqué par |

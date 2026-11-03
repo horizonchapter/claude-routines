@@ -18,7 +18,7 @@
 | Routine | Quand | Ce qu'elle produit |
 |---|---|---|
 | [Veille quotidienne](routines/01-veille-quotidienne.md) | chaque matin | 6 vidéos YouTube + 6 actualités vérifiées (liens testés, dates contrôlées, pas de doublon), triées selon tes retours *Utile* / *Pas intéressant*. Récap automatique le lundi. |
-| [Envoi famille](routines/02-envoi-famille.md) | 18 h | Un mail HTML soigné avec les éléments que **tu** as marqués « oui ». Rien n'est envoyé sans ta validation. |
+| [Envoi famille](routines/02-envoi-famille.md) | 18 h | Un mail HTML soigné avec les éléments que **tu** as marqués « proposé ». La veille ne fait que suggérer (« idée Claude »). Rien n'est envoyé sans ta validation. |
 | [Suivi du soir](routines/03-suivi-du-soir.md) | 23 h | Ce que tu as fait, décidé, ce qui bloque, une note honnête de la journée et une proposition pour demain. |
 | [Revue du mardi](routines/04-revue-du-mardi.md) | mardi midi | Où est passé ton temps, ce qui se répète, et des propositions de skills ou de mods sur mesure. |
 
@@ -44,12 +44,12 @@ La veille du matin et le suivi du soir, rangés dans Notion :
 ## ✦ Installation
 
 1. Crée dans Notion la structure décrite dans [`notion-structure.md`](notion-structure.md).
-2. Connecte Notion à Claude (et Gmail si tu veux l'envoi famille).
+2. Connecte Notion à Claude (et Gmail si tu veux l'envoi famille). Firecrawl est facultatif : la veille l'utilise pour Reddit et X, avec un budget de crédits plafonné.
 3. Pour chaque routine, crée une tâche programmée dans Claude et colle le prompt du fichier correspondant.
 4. Remplace les repères `<VIDEOS>`, `<PAGE_REGLAGES>`, etc. par les liens de tes pages et bases Notion.
 5. Lance chaque routine une fois à la main pour vérifier.
 
-Le suivi du soir peut aussi lire un dossier `Projets` sur ton ordinateur (voir [claude-second-brain](https://github.com/horizonchapter/claude-second-brain)).
+Le suivi du soir et la revue du mardi peuvent aussi lire un dossier AIOS sur ton ordinateur (voir [memoire-aios](https://github.com/horizonchapter/memoire-aios)) et préparer une section « À importer dans le cerveau ».
 
 ## ✦ Voir aussi
 
